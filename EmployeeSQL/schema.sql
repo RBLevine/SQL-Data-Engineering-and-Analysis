@@ -1,7 +1,7 @@
 -- Create titles table
 CREATE TABLE titles (
-    title_id VARCHAR NOT NULL,
-    title VARCHAR NOT NULL PRIMARY KEY
+    title_id VARCHAR NOT NULL PRIMARY KEY,
+    title VARCHAR NOT NULL 
 );
 
 -- Create employees table
